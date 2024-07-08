@@ -23,19 +23,13 @@ Este es un programa Java para convertir diversas divisas a pesos Colombianos (CO
 
 ## Menú y opciones
 
-- El sistema cuenta con un menú principal con 8 opciones, 6 opciones de conversión de moneda Colombia una opción de conversión de diferentes monedas y una opción de salida.
+![Almacenado_Libro_nuevo](https://github.com/estebantalero/Challenge_literalura/assets/89372486/326bc9c8-3319-46f3-ae75-7f2156841642)
+![Busqueda_Autores_Vivos](https://github.com/estebantalero/Challenge_literalura/assets/89372486/efb52da2-2dcd-49b7-8bba-0ae4d92c38d5)
+![busqueda_libros](https://github.com/estebantalero/Challenge_literalura/assets/89372486/86fe7dfb-d426-4b32-95cb-2cf6c313e488)
+![Idiomas](https://github.com/estebantalero/Challenge_literalura/assets/89372486/0f0747dc-4909-44f6-be65-f32618c20d2a)
+![libros_Por_idioma](https://github.com/estebantalero/Challenge_literalura/assets/89372486/a2f29ec2-3b2f-4ecd-b1c2-dafc22b28f04)
+![Listado_Autores](https://github.com/estebantalero/Challenge_literalura/assets/89372486/00ec682f-643a-402e-be3a-887139fda57e)
+![listado_De_Libros](https://github.com/estebantalero/Challenge_literalura/assets/89372486/d77b605e-abe8-486d-b0c2-1aeac96885c7)
+![menu_principal](https://github.com/estebantalero/Challenge_literalura/assets/89372486/42ea7f86-9986-45ca-9eee-f310e0126cfc)
 
-![Menu](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/c71e427e-fcf4-4b05-8e3b-b614f9530f04)
-
-![Resultados](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/3843511a-fa37-441c-a850-8a1036e5ba8b)
-
-- Conversión de diferentes Divisas
-  
-![ConversionDiferenteMoneda](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/1bb76119-369d-4afc-8bd5-68e5171410ae)
-
-- El sistema cuenta con excepciones numéricas y alfabéticas.
-
-![PruebaNoNumerica](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/de59396f-a80a-4776-9ccf-1b62efce2f06)
-
-![PruebaOpncionNoValida](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/91f1efa6-2de8-4ba1-be01-c6115f462354)
 
