@@ -1,22 +1,20 @@
 # Challenge_literalura
 
-Este es un programa Java para convertir diversas divisas a pesos Colombianos (COP) propuesto por [Alura Latam](https://www.aluracursos.com/). Asiendo uso de la API de ["Exchange Rate API"](https://www.exchangerate-api.com/)  Para obtener la tasa de cambio en tiempo de real de las divisas seleccionadas.
-
+Este proyecto es una parte desafiante de los proyectos Oracle Next Education y Alura Latam. El objetivo es adquirir experiencia práctica en el trabajo diario de un desarrollador backend, creando aplicaciones que se conectan a bases de datos relacionales. Aquí tendrás la oportunidad de utilizar conceptos avanzados de Java y Spring, como: Especialmente la recopilación de API externas..
 
 ## Funcionalidades
 
-1 - Buscar libro por titulo
-2 - Listar libros almacenados
-3 - Listar autor almacenado
-4 - Listar autor vivo por año
-5 - Listar libros por idioma
-0 - Salir
+1. Buscar libro por titulo
+2. Listar libros almacenados
+3. Listar autor almacenado
+4. Listar autor vivo por año
+5. Listar libros por idioma
+0. Salir
 
 ## Requisitos
 
 - Java Development Kit (JDK) 17 o superior
-- Internet para obtener las tasas de cambio actuales
-- contar con la licencia de la API `exchangerate-api` activas 
+- Base de datos PostgreSQL configurada 
 
 
 ## Menú y opciones
